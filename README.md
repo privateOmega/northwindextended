@@ -8,7 +8,7 @@ NorthwindExtended database files originally forked from Google Code Archive.
   - Added missing ForeignKey constraints to northwind.postgre .
 
 ## Schema
-[![Schema](schema.jpg)]
+[Schema](schema.jpg)]
 
 License
 ----
